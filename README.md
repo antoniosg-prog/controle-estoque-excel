@@ -1,5 +1,5 @@
 # 📦 Sistema de Controle de Estoque Automatizado - Excel
-
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ## 📌 Sobre o projeto
 
 Planilha de controle de estoque desenvolvida para automatizar a gestão de materiais, integrando entradas e saídas com atualização automática do estoque. Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habilidades em Excel, automação de planilhas e resolução de problemas reais de negócio.
