@@ -45,3 +45,10 @@ Estudante de Tecnologia em Banco de Dados, em transição de carreira para a ár
 
 🔗 Linkedin: https://www.linkedin.com/in/antonio-isac-411031216/ <br>
 📧 E-mail: antonio.sgbl@gmail.com
+
+## 📸 Prévia da Planilha
+
+
+<img width="1687" height="724" alt="preview2" src="https://github.com/user-attachments/assets/8f578f72-a7ba-40ab-b8d2-64fa9b609245" />
+
+
